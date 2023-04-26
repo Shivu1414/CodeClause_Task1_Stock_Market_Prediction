@@ -1,2 +1,3 @@
 # CodeClause_Task1_Stock_Market_Prediction
-Code Clause Data Science Intern
+<b> Code Clause Data Science Intern </b><br>
+<b> Task1 : Stock Market Prediction </b>
